@@ -1,4 +1,4 @@
-- 🇳 I'm a self-taught passionate FrontEnd developer.
+- Hi 👋, I'm a self-taught passionate FrontEnd developer.
 
 **About me**
 
@@ -27,4 +27,4 @@
   <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l20zf47us9i2ol71zt7ouq2eo)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l20zf47us9i2ol71zt7ouq2eo&width=1000)
