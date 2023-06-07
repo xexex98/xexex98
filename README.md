@@ -12,11 +12,12 @@
 
 - 💬 Ask me about anything in [Telegram](https://t.me/xexex98)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xexex98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xexex98&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xexex98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://streak-stats.demolab.com/?user=xexex98&layout=compact&theme=buefy&hide_border=true" /> |  
 | ------------- | ------------- |
 
-#### Top Repositories
+<!-- <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xexex98&layout=compact&theme=buefy&hide_border=true" />  -->
 
+#### Top Repositories
 
 <a href="https://github.com/xexex98/push_swap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xexex98&repo=push_swap&theme=buefy" />
@@ -28,9 +29,8 @@
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
