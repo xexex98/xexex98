@@ -12,25 +12,19 @@
 
 - 💬 Ask me about anything in [Telegram](https://t.me/xexex98)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xexex98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://streak-stats.demolab.com/?user=xexex98&layout=compact&theme=buefy&hide_border=true" /> |  
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xexex98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://streak-stats.demolab.com/?user=xexex98&layout=compact&theme=buefy&hide_border=true" /> |  
 | ------------- | ------------- |
 
 <!-- <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xexex98&layout=compact&theme=buefy&hide_border=true" />  -->
 
-#### Top Repositories
-
-<a href="https://github.com/xexex98/push_swap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xexex98&repo=push_swap&theme=buefy" />
-</a>
-<a href="https://github.com/xexex98/Philosophers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xexex98&repo=Philosophers&theme=buefy" />
-</a>
-
 <br />
 <br />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l20zf47us9i2ol71zt7ouq2eo)
