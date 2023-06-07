@@ -23,5 +23,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l20zf47us9i2ol71zt7ouq2eo&width=1000)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xexex98&layout=compact&theme=buefy&hide_border=true" />  -->
