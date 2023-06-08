@@ -9,6 +9,24 @@
 - ❤️ I love writing in TypeScript.
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 12 October 2021 - To: 07 June 2023
+
+Total Time: 282 hrs 27 mins
+
+C               254 hrs 49 mins >>>>>>>>>>>>>>>>>>>>>>>--   90.22 %
+Makefile        14 hrs 40 mins  >------------------------   05.20 %
+Other           6 hrs 42 mins   >------------------------   02.37 %
+C++             2 hrs 27 mins   -------------------------   00.87 %
+Text            1 hr 23 mins    -------------------------   00.49 %
+Bash            59 mins         -------------------------   00.35 %
+Git Config      42 mins         -------------------------   00.25 %
+JSON            25 mins         -------------------------   00.15 %
+Python          7 mins          -------------------------   00.05 %
+INI             3 mins          -------------------------   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 - <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://jquery.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/jquery.svg" alt="JQuery" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/webpack.svg" alt="Webpack" width="25" height="25" /></a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a>    <a href="http://figma.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/figma.svg" alt="Figma" width="25" height="25" /></a>
