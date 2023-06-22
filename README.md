@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2023 - To: 19 June 2023
+From: 21 May 2023 - To: 20 June 2023
 
-Total Time: 13 hrs 15 mins
+Total Time: 15 hrs 53 mins
 
-JavaScript   11 hrs 57 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.30 %
-CSS          1 hr 13 mins    >>-----------------------   09.31 %
-JSON         3 mins          -------------------------   00.38 %
+JavaScript   14 hrs 12 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.39 %
+CSS          1 hr 38 mins    >>>----------------------   10.28 %
+JSON         3 mins          -------------------------   00.32 %
 Other        0 secs          -------------------------   00.01 %
 ```
 
