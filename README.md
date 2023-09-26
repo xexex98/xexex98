@@ -1,42 +1,38 @@
-- Hi 👋, I'm a self-taught passionate FrontEnd developer.
 
-**About me**
 
-- 💼 FrontEnd Engineer at [Sber](http://www.sberbank.ru/)
+`Hanoi, Vietnam - 26/09/2023`
 
-- 📈 A highly motivated and skilled React Frontend Developer with 2 years of experience in building elegant, responsive, and user-centric web applications. Proficient in ReactJS, Redux, HTML, CSS, JavaScript, and various frontend technologies. Strong analytical skills, excellent problem-solving abilities, and good understanding of Agile and Scrum methodologies.
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-- ❤️ I love writing in TypeScript.
+Moderate rain
 
-<!--START_SECTION:waka-->
 
-```txt
-From: 25 August 2023 - To: 24 September 2023
+<table>
+    <tr>
+        <th>Hour</th>
+        <td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td><td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td>
+    </tr>
+    <tr>
+        <th>Weather</th>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
+    </tr>
+    <tr>
+        <th>Condition</th>
+        <td width="200px">Patchy rain possible</td><td width="200px">Clear</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy light drizzle</td><td width="200px">Partly cloudy</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td>
+    </tr>
+    <tr>
+        <th>Temperature</th>
+        <td>24.9 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>25.3 °C</td><td>27 °C</td><td>28.7 °C</td><td>30.4 °C</td><td>31.5 °C</td><td>31.9 °C</td><td>31.4 °C</td><td>30.2 °C</td><td>30 °C</td><td>27.2 °C</td><td>27.2 °C</td><td>26.3 °C</td><td>26 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.6 °C</td><td>25.3 °C</td>
+    </tr>
+    <tr>
+        <th>Wind</th>
+        <td>4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>12.2 kph</td><td>13 kph</td><td>6.5 kph</td><td>2.5 kph</td><td>22 kph</td><td>9 kph</td><td>8.6 kph</td><td>9 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.5 kph</td>
+    </tr>
+</table>
 
-Total Time: 36 hrs 3 mins
 
-JavaScript                 32 hrs 34 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.34 %
-JSON                       3 hrs 24 mins   >>-----------------------   09.47 %
-YAML                       1 min           -------------------------   00.08 %
-Other                      1 min           -------------------------   00.06 %
-Bash                       0 secs          -------------------------   00.01 %
-```
+<div align="right">
 
-<!--END_SECTION:waka-->
+*Updated at: 2023-09-26T08:27:11Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
-- <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://jquery.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/jquery.svg" alt="JQuery" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/webpack.svg" alt="Webpack" width="25" height="25" /></a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a>    <a href="http://figma.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/figma.svg" alt="Figma" width="25" height="25" /></a>
-
-- 💬 Ask me about anything in [Telegram](https://t.me/xexex98)
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xexex98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://streak-stats.demolab.com/?user=xexex98&layout=compact&theme=buefy&hide_border=true" /> |  
-| ------------- | ------------- |
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l20zf47us9i2ol71zt7ouq2eo&width=1000)
-
-<!-- <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xexex98&layout=compact&theme=buefy&hide_border=true" />  -->
+</div>
