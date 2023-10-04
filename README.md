@@ -1,38 +1,29 @@
+- Hi 👋, I'm a self-taught passionate FrontEnd developer.
 
+**About me**
 
-`Hanoi, Vietnam - 05/10/2023`
+- 💼 FrontEnd Engineer at [Sber](http://www.sberbank.ru/)
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+- 📈 A highly motivated and skilled React Frontend Developer with 2 years of experience in building elegant, responsive, and user-centric web applications. Proficient in ReactJS, Redux, HTML, CSS, JavaScript, and various frontend technologies. Strong analytical skills, excellent problem-solving abilities, and good understanding of Agile and Scrum methodologies.
 
-Partly cloudy
+- ❤️ I love writing in TypeScript.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<table>
-    <tr>
-        <th>Hour</th>
-        <td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td><td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td>
-    </tr>
-    <tr>
-        <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
-    </tr>
-    <tr>
-        <th>Condition</th>
-        <td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain possible</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Clear</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Clear</td>
-    </tr>
-    <tr>
-        <th>Temperature</th>
-        <td>26.5 °C</td><td>29 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>26.7 °C</td><td>28.3 °C</td><td>29.8 °C</td><td>31.1 °C</td><td>32.3 °C</td><td>33.3 °C</td><td>33.6 °C</td><td>33.2 °C</td><td>32.1 °C</td><td>31.5 °C</td><td>31 °C</td><td>29.8 °C</td><td>29 °C</td><td>28.3 °C</td><td>27.7 °C</td><td>27.3 °C</td><td>27 °C</td>
-    </tr>
-    <tr>
-        <th>Wind</th>
-        <td>8.3 kph</td><td>11.2 kph</td><td>7.2 kph</td><td>5.8 kph</td><td>5 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>9 kph</td><td>9.4 kph</td><td>9 kph</td><td>8.3 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>10.8 kph</td>
-    </tr>
-</table>
+- <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://jquery.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/jquery.svg" alt="JQuery" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/webpack.svg" alt="Webpack" width="25" height="25" /></a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a>    <a href="http://figma.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/figma.svg" alt="Figma" width="25" height="25" /></a>
 
+- 💬 Ask me about anything in [Telegram](https://t.me/xexex98)
 
-<div align="right">
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xexex98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://streak-stats.demolab.com/?user=xexex98&layout=compact&theme=buefy&hide_border=true" /> |  
+| ------------- | ------------- |
 
-*Updated at: 2023-10-04T17:24:39Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
 
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l20zf47us9i2ol71zt7ouq2eo&width=1000)
+
+<!-- <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xexex98&layout=compact&theme=buefy&hide_border=true" />  -->
