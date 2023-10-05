@@ -11,20 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2021 - To: 07 June 2023
+From: 04 September 2023 - To: 04 October 2023
 
-Total Time: 282 hrs 27 mins
+Total Time: 45 hrs 55 mins
 
-C               254 hrs 49 mins >>>>>>>>>>>>>>>>>>>>>>>--   90.22 %
-Makefile        14 hrs 40 mins  >------------------------   05.20 %
-Other           6 hrs 42 mins   >------------------------   02.37 %
-C++             2 hrs 27 mins   -------------------------   00.87 %
-Text            1 hr 23 mins    -------------------------   00.49 %
-Bash            59 mins         -------------------------   00.35 %
-Git Config      42 mins         -------------------------   00.25 %
-JSON            25 mins         -------------------------   00.15 %
-Python          7 mins          -------------------------   00.05 %
-INI             3 mins          -------------------------   00.02 %
+JavaScript                 41 hrs 14 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.80 %
+JSON                       3 hrs 56 mins   >>-----------------------   08.58 %
+Ezhil                      21 mins         -------------------------   00.77 %
+Markdown                   9 mins          -------------------------   00.35 %
+HTML                       7 mins          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->
