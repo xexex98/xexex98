@@ -7,7 +7,7 @@
 - 📈 A highly motivated and skilled React Frontend Developer with 2 years of experience in building elegant, responsive, and user-centric web applications. Proficient in ReactJS, Redux, HTML, CSS, JavaScript, and various frontend technologies. Strong analytical skills, excellent problem-solving abilities, and good understanding of Agile and Scrum methodologies.
 
 - ❤️ I love writing in TypeScript.
-- 
+<!-- - -->
 <!--START_SECTION:waka-->
 
 <!---```txt-->
