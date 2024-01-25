@@ -10,14 +10,14 @@
 <!-- - -->
 <!--START_SECTION:waka-->
 
-<!---```txt-->
-<!---From: 23 December 2023 - To: 22 January 2024-->
+```txt
+From: 24 December 2023 - To: 23 January 2024
 
-<!---Total Time: 2 mins-->
+Total Time: 2 mins
 
-<!---TypeScript   2 mins          >>>>>>>>>>>>>>>>>>>>-----   78.86 %-->
-<!---JSON         0 secs          >>>>>--------------------   21.14 %-->
-<!---```-->
+TypeScript   2 mins          >>>>>>>>>>>>>>>>>>>>-----   78.86 %
+JSON         0 secs          >>>>>--------------------   21.14 %
+```
 
 <!--END_SECTION:waka-->
 
